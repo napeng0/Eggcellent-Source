@@ -1,1 +1,8 @@
 .svn
+DerivedDataCache
+Intermediate
+Saved
+Content
+/.vs
+Binaries
+*.sln
